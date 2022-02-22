@@ -16,10 +16,6 @@ class SessionsController < ApplicationController
     else
         redirect_to"/sessions/new"
     end 
-    
-
-
-
 
 
 
